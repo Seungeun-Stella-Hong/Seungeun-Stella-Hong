@@ -46,7 +46,6 @@ My academic journey—from Yonsei University to UC Berkeley—strengthened my sk
 
 ## 📫 Contact
 📧 **Email:** stellasehong@gmail.com  
-🔗 **LinkedIn:** *Insert link*
 
 ---
 

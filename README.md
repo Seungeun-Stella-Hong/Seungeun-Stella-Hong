@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://via.placeholder.com/1100x300.png?text=Stella+Hong+%7C+AI+%26+Machine+Learning" alt="banner" />
 </p>

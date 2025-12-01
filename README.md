@@ -16,23 +16,35 @@ My academic journey—from Yonsei University to UC Berkeley—strengthened my sk
 ---
 
 ## 🌸 Featured Projects
-### 🗑️ Waste Image Classification (ResNet-based Deep Learning)
-- Implemented ResNet34 based Transfer learning   
-🔗 *Add repo link*
-
----
-
 ### ✍️ AI-Generated Text Detection (KoELECTRA + LoRA)
 - KoELECTRA encoder  
 - Parameter-efficient LoRA  
 - Attention-MIL  
-🔗 *Add repo link*
+🔗 [View notes] *Add repo link*
+
+---
+
+### 🗑️ Waste Image Classification (ResNet-based Deep Learning)
+- Implemented ResNet34 based Transfer learning   
+🔗 [View Slides] *Add repo link*
+
+---
+
+### 💎 Diamond Price Prediction(Machine learning)
+- Compared Linear Regression, Decision Tree, Random Forest   
+🔗 [View Report] *Add repo link*
 
 ---
 
 ### 🗺️ Balanced TOD planning for Seoul Stations Areas (Machine Learning)
 - SNA, K-means clustering, PCA, Linear Regression
-🔗 *Add repo link*
+🔗 [Code Repository] *Add repo link*
+
+---
+
+### 🚗 Data-Driven Analysis of Illegal Parking Causes in Seoul
+- Geocoded with Kakao Maps API    
+🔗 [View Slides] *Add repo link*
 
 ---
 

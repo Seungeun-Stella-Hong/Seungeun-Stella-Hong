@@ -19,31 +19,31 @@ My academic journey—from Yonsei University to UC Berkeley—strengthened my sk
 - KoELECTRA encoder  
 - Parameter-efficient LoRA  
 - Attention-MIL  
-🔗 [View notes] *Add repo link*
+🔗 [View repo] *(https://github.com/Seungeun-Stella-Hong/LLM-Generated-Text-Detection)*
 
 ---
 
 ### 🗑️ Waste Image Classification (ResNet-based Deep Learning)
 - Implemented ResNet34 based Transfer learning   
-🔗 [View Slides] *Add repo link*
+🔗 [View Slides and Report] *(https://github.com/Seungeun-Stella-Hong/project-portfolio/tree/main/Waste%20Image%20Classification)*
 
 ---
 
 ### 💎 Diamond Price Prediction(Machine learning)
 - Compared Linear Regression, Decision Tree, Random Forest   
-🔗 [View Report] *Add repo link*
+🔗 [View Report] *(https://github.com/Seungeun-Stella-Hong/project-portfolio/blob/main/Diamond%20Price%20Prediction_final%20report.pdf)*
 
 ---
 
 ### 🗺️ Balanced TOD planning for Seoul Station Areas (Machine Learning)
 - SNA, K-means clustering, PCA, Linear Regression
-🔗 [Code Repository] *Add repo link*
+🔗 [View Code and Slides] *(https://github.com/Seungeun-Stella-Hong/project-portfolio/tree/main/Balanced%20TOD%20planning)*
 
 ---
 
 ### 🚗 Data-Driven Analysis of Illegal Parking Causes in Seoul
 - Geocoded with Kakao Maps API    
-🔗 [View Slides] *Add repo link*
+🔗 [View Slides] *(https://github.com/Seungeun-Stella-Hong/project-portfolio/blob/main/Data-Driven%20Analysis%20of%20Illegal%20Parking%20Causes%20in%20Seoul.pdf)*
 
 ---
 

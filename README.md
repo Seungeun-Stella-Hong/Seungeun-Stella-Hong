@@ -1,5 +1,7 @@
 <h1 align="center">✨ Hi, I'm <b>Seungeun Hong</b> ✨</h1>
-<p align="center">
+<p align="left">
+  Driven interest in Computer Vision(CV), Large Language Models(LLM), 
+  <br>and Multi-Modal Architectures 
   Undergraduate of Industrial Engineering @ Yonsei University
   <br>Former Exchange @ UC Berkeley  
 </p>

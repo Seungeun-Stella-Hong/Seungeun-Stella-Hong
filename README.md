@@ -2,41 +2,27 @@
 
 <h1 align="center">✨ Hi, I'm <b>Stella Hong</b> ✨</h1>
 <p align="center">
-  Aspiring AI/ML Engineer · Computer Vision · NLP · Multimodal Learning  
+  Driven Aspiring AI/ML Engineer · Computer Vision · NLP · Multimodal Learning  
   <br>
-  Industrial Engineering @ Yonsei · Former Exchange @ UC Berkeley  
+  Undergraduate of Industrial Engineering @ Yonsei · Former Exchange @ UC Berkeley  
 </p>
 
 ---
 
 ## 🌿 About Me
-I’m passionate about building intelligent systems through **machine learning**, **deep learning**, and **data-centric AI**.  
-My academic journey—from Yonsei University to UC Berkeley—strengthened my interest in **Computer Vision**, **NLP**, and **Multimodal Learning**, and I’m currently preparing for **MS in Computer Science (Fall 2026)**.
-
----
-
-## 🔭 What I’m Working On
-- 🗑️ **Waste Image Classification (ResNet28)**  
-  Custom CNN → ResNet28 · 7-class recyclable image dataset · augmentation + dropout tuning
-
-- ✍️ **LLM-Generated Text Detection**  
-  KoELECTRA + LoRA fine-tuning · Attention-MIL · **ROC-AUC: 86.3%**
-
-- 🗺️ **Seoul Café Revenue Prediction**  
-  Regression, RF, DNN · feature engineering with population, transit, school density
+My goal is building mental healthcare application through **computer vision**, **large language models**, and **multi-modal architectures** for the well-being of the human race.  
+My academic journey—from Yonsei University to UC Berkeley—strengthened my skills in **Data mining**, **Machine Learning**, and **Deep Learning**, and I’m currently preparing for **MS in Computer Science (Fall 2026)**.
 
 ---
 
 ## 🌸 Featured Projects
-### 🗑️ Waste Image Classification (ResNet28)
-- ~900–1300 images/class  
-- Implemented ResNet28 with regularization  
-- Accuracy, confusion matrix evaluation  
+### 🗑️ Waste Image Classification (ResNet-based Deep Learning)
+- Implemented ResNet34 based Transfer learning   
 🔗 *Add repo link*
 
 ---
 
-### ✍️ LLM-Generated Text Detection (KoELECTRA + LoRA)
+### ✍️ AI-Generated Text Detection (KoELECTRA + LoRA)
 - KoELECTRA encoder  
 - Parameter-efficient LoRA  
 - Attention-MIL  
@@ -44,18 +30,17 @@ My academic journey—from Yonsei University to UC Berkeley—strengthened my in
 
 ---
 
-### 🗺️ Seoul Café Revenue Prediction (ML + DNN)
-- Linear Regression, Random Forest, DNN  
-- End-to-end preprocessing & feature engineering  
+### 🗺️ Balanced TOD planning for Seoul Stations Areas (Machine Learning)
+- SNA, K-means clustering, PCA, Linear Regression
 🔗 *Add repo link*
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, SQL, R  
-**ML/DL:** PyTorch, TensorFlow, scikit-learn  
+**Languages:** Python, SQL  
+**ML/DL:** PyTorch
 **Tools:** Git, VSCode, Jupyter, MySQL  
-**Domains:** Computer Vision, NLP, Data Mining, Multimodal Learning
+**Interests:** Computer Vision, Large Language Model, Multimodal Learning
 
 ---
 

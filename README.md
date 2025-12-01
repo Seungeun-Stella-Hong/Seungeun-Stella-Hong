@@ -2,7 +2,7 @@
 <p align="left">
   Driven interest in Computer Vision(CV), Large Language Models(LLM), 
   <br>and Multi-Modal Architectures 
-  Undergraduate of Industrial Engineering @ Yonsei University
+  <br>Undergraduate of Industrial Engineering @ Yonsei University
   <br>Former Exchange @ UC Berkeley  
 </p>
 

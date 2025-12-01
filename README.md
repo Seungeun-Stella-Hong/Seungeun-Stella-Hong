@@ -1,4 +1,4 @@
-<h1 align="center">✨Hi, I'm <b>Seungeun Hong(Stella)</b>✨</h1>
+<h1 align="center">✨ Hi, I'm <b>Seungeun Hong</b> ✨</h1>
 <p align="center">
   Driven Aspiring AI/ML Engineer · Computer Vision · NLP · Multimodal Learning  
   <br>

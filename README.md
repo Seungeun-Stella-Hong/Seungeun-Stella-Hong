@@ -1,6 +1,7 @@
 <h1 align="center">✨ Hi, I'm <b>Seungeun Hong</b> ✨</h1>
 <p align="center">
-  Undergraduate of Industrial Engineering @ Yonsei · Former Exchange @ UC Berkeley  
+  Undergraduate of Industrial Engineering @ Yonsei
+  <br>Former Exchange @ UC Berkeley  
 </p>
 
 ---

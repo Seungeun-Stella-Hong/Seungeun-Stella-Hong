@@ -15,7 +15,7 @@ My academic journey—from Yonsei University to UC Berkeley—strengthened my sk
 ---
 
 ## 🌸 Featured Projects
-### ✍️ AI-Generated Text Detection (KoELECTRA + LoRA)
+### ✍️ LLM-Generated Text Detection (KoELECTRA + LoRA)
 - KoELECTRA encoder  
 - Parameter-efficient LoRA  
 - Attention-MIL  

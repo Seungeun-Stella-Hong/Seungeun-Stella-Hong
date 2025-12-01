@@ -37,7 +37,7 @@ My academic journey—from Yonsei University to UC Berkeley—strengthened my sk
 
 ### 🗺️ Balanced TOD planning for Seoul Station Areas (Machine Learning)
 - SNA, K-means clustering, PCA, Linear Regression
-🔗 [View Code and Slides](https://github.com/Seungeun-Stella-Hong/project-portfolio/tree/main/Balanced%20TOD%20planning)
+  🔗 [View Code and Slides](https://github.com/Seungeun-Stella-Hong/project-portfolio/tree/main/Balanced%20TOD%20planning)
 
 ---
 
